@@ -1,0 +1,7 @@
+{
+  "name": "MediLocate",
+  "description": "A nearby medical facilities finder that uses your GPS location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
